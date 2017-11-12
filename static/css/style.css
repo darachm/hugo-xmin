@@ -49,3 +49,17 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee }
+
+/* now Darach's tweaks */
+.menu li #home:hover {
+  background-color: #fc8d62;
+}
+.menu li #about_and_contact:hover {
+  background-color: #a6d854;
+}
+.menu li #posts_by_tags:hover {
+  background-color: #ffa0ff;
+}
+.menu li #links:hover {
+  background-color: #ffff99;
+}
