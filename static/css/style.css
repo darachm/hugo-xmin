@@ -63,3 +63,10 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
 .menu li #links:hover {
   background-color: #ffff99;
 }
+
+a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px;
+  border-radius: 5px;
+}
