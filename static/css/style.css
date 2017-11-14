@@ -57,6 +57,9 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
 .menu li #about_and_contact:hover {
   background-color: #a6d854;
 }
+.menu li #posts:hover {
+  background-color: #a0ffff;
+}
 .menu li #posts_by_tags:hover {
   background-color: #ffa0ff;
 }
