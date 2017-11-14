@@ -8,19 +8,17 @@ body {
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
-.article-meta, .menu a {
+.menu a {
   text-decoration: none;
   background: #eee;
   padding: 5px;
   border-radius: 5px;
 }
-.menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
+.article-meta { text-decoration: none; }
+.menu, footer { text-align: center; }
+.title { font-size: 1.4em; font-style: bold; clear:right; }
 footer a { text-decoration: none; }
-hr {
-  border-style: dashed;
-  color: #ddd;
-}
+hr { border-style: dashed; color: #ddd; }
 
 /* code */
 pre {
@@ -91,3 +89,4 @@ a.imglink:hover {
   border-radius: 10px;
   color: #000;
 }
+
